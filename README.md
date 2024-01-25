@@ -26,7 +26,7 @@ To start this application, follow the following steps:
 
 ### Note
 
-You need to have RabbitMQ server on your machine to be able to publish messages.
+You need to have RabbitMQ server on your machine to be able to receive messages.
 For how to install RabbitMQ server, visit the RabbitMQ
 [getting started](https://www.rabbitmq.com/#getstarted) page for guide on
 installation on various platforms.
